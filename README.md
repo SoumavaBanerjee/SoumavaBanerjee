@@ -58,11 +58,11 @@ Full Stack MERN Web Developer. Also efficient in working with server management 
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30"></code>
 
-## Work Experience
+## I'm currently...
 
-- 🔭 I’m currently working as SE @Quordnet Academy
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate Full Stack Web development Projects
+- 🔭 working on personal side projects
+- 🌱 learning Typescript
+- 👯 looking to collaborate Full Stack Web development Projects
 
 <!--<div>
   <h4>🏆 Github Profile Trophy</h4>
