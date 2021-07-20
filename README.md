@@ -1,10 +1,10 @@
 <h3> Hi there 👋, I'm Soumava Banerjee. </h3>
 
-<h4 align="center"> I'm am a Full Stack MERN stack Web Developer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> I'm am a Full Stack MERN Web Developer and Open-Source contributor  currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
 ## BIO
 
-Full Stack MERN Web Developer. Also efficient in working with server management automation using Bash, Desktop App Development experience using Electron. Proficient in System Administration, Computer networking and DevOps with great communicative and management skills.
+Full Stack MERN Developer. Efficient in working with fullstack web applications automation with strong foundation of javascript. Also familiar with basics of System Administration, Computer networking and DevOps with great communicative and management skills.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/SoumavaBanerjee--/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>
