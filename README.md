@@ -4,14 +4,14 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/SoumavaBanerjee.svg?style=social&label=Followers)](https://github.com/SoumavaBanerjee?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Soumava!;I'm+a+Frontend+Developer...;I+know+some+backend;And+I+also+love+chess)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Soumava!;I'm+a+web+Developer...;And+I+also+love+chess!)](https://git.io/typing-svg)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=SoumavaBanerjee&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on React Projects
-- 🌱 I've 6+ months of internship experience worked at Quordnet and built their notes viewing UI and backend logic
+- 🌱 I've 6+ months of internship experience worked at Quordnet, building their notes viewing UI and backend logic
 - 👯 I’m looking to collaborate on FullStack React Projects
 - 💬 Ask me about Frontend development, javascript and Typescript
 
@@ -130,11 +130,8 @@
      &emsp;
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
+    &emsp; 
     
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
