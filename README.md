@@ -8,12 +8,12 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=SoumavaBanerjee&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
-<h3> Here's some fun facts about me: </h3>
+<h3> Here's some facts about me: </h3>
 
-- 🔭 I’m currently working on React Projects
-- 🌱 I've 6+ months of internship experience worked at Quordnet, building their notes viewing UI and backend logic
-- 👯 I’m looking to collaborate on FullStack React Projects
-- 💬 Ask me about Frontend development, javascript and Typescript
+- 🔭 I'm currently working as an SDE in Finarb.ai
+- 🌱 I've 6+ months of internship experience. I Worked at Quordnet, building their permission based pdf notes viewing UI and core business logic in the backend.
+- 👯 I have won multiple hackathons! You can find all those projects in my profile.
+- 💬 Ask me anything related to Frontend engineering and backend systems.
 
 <p>Connect with me on
 <br>	
